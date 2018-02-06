@@ -1,0 +1,1 @@
+[timestamps,muaps] = K_means( 'Data.txt', 3)
